@@ -1,0 +1,6 @@
+notes.txt
+.DS_Store
+*.pyc
+data/
+preliminary_code/
+tmp/
